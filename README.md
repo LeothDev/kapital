@@ -1,4 +1,4 @@
-# 💰 kapital
+# 💰 kapital - **WIP**
 
 > A terminal-based personal finance tracker powered by [Rich](https://github.com/Textualize/rich) and [Polars](https://www.pola.rs/).  
 > Fast, minimal, and a little nostalgic — built for the command line, not the cloud.
