@@ -17,14 +17,14 @@
 
 ## 🧱 Project Structure
 
-kapital/
-├── db/ # Local database
-├── reports/ #  Generated reports (Excel/Markdown)
-├── main.py # Entry point
-├── tracker.py # Core logic
-├── exporter.py # Report creation
-├── ui.py # Rich prompt/input and styled output
-└── requirements.txt # Project dependencies
+kapital/  
+├── db/ # Local database  
+├── reports/ #  Generated reports (Excel/Markdown)  
+├── main.py # Entry point  
+├── tracker.py # Core logic  
+├── exporter.py # Report creation  
+├── ui.py # Rich prompt/input and styled output  
+└── requirements.txt # Project dependencies  
 
 ---
 
