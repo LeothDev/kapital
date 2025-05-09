@@ -1,7 +1,9 @@
 fastexcel==0.14.0
 markdown-it-py==3.0.0
 mdurl==0.1.2
+pathlib==1.0.1
 polars==1.29.0
 pyarrow==20.0.0
 Pygments==2.19.1
 rich==14.0.0
+todo @ file:///home/leoth/Code/scripts/todo-cli
